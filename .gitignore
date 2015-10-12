@@ -117,4 +117,5 @@ nbproject
 .idea
 .node_history
 treeline.json
-api
+api/controllers
+api/models
